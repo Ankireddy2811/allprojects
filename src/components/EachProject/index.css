@@ -1,0 +1,21 @@
+.each-list-item {
+  width: 20%;
+  height: 38vh;
+  margin: 15px;
+  box-shadow: 4px 4px 16px 10px #e2e8f0;
+  border-radius: 10px;
+}
+
+.each-image {
+  width: 100%;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+.each-name {
+  color: #475569;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 15px;
+  padding-left: 10px;
+}
